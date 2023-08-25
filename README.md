@@ -1,4 +1,13 @@
-### Hi there 👋
+### Привет! 👋
+Меня зовут Николай Васильев.
+Начинаю свой путь в профессии Тестировщик.  
+
+Закончен курс в Нетологии: _[Тестировщик ПО](https://netology.ru/programs/qa)_  
+Получены сертификаты:
+- _[Ручное тестирование Веб-приложений](https://drive.google.com/file/d/1PnlZajQZrz7YPUrQ_xFX7RZujPO7iTy5/view?usp=drive_link)_  
+- _[Git — система контроля версий](https://drive.google.com/file/d/1743e1EDtohQVks4ujmVs2kTkH2jsomZn/view?usp=drive_link)_  
+- _[Java для тестировщиков](https://drive.google.com/file/d/1tgbEd-j6rBfo-26zk1XqUkvzlBLsU0AJ/view?usp=sharing)_
+- _[Автоматизированное тестирование](https://drive.google.com/file/d/1SEtjf55EbjQ0GT5mVF2b3MBKIYfn6gvF/view?usp=sharing)_
 
 <!--
 **VasilevNik/VasilevNik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
